@@ -28,8 +28,8 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 
 
-### 🌱 I’m from Gwalior, M.p, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
-- 👨‍💻 All of my projects are available at [Portfolio 😊](https://faizankhan99.github.io)
+### 🌱 I’m from Bilaspur, H.P, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+- 👨‍💻 All of my projects are available at [Portfolio 😊](https://Shivam_Moudgil.github.io)
 
 - 🌱 I’m currently learning **React Advanced**
 
