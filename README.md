@@ -1,14 +1,14 @@
 
 <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h1 align="center">Hi 👋, I'm Faizan Khan</h1>
+<h1 align="center">Hi 👋, I'm Shivam Moudgil</h1>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h3 align="center">Aspiring Full-stack Web Developer at Masai</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizankhan99&label=Profile%20views&color=0e75b6&style=flat" alt="faizankhan99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizankhan99&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizankhan99" alt="faizankhan99" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivam-Moudgil" alt="shivam" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -33,23 +33,22 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 🌱 I’m currently learning **React Advanced**
 
- - 🔭 Individual Project [Myntra-Clone ](https://github.com/Faizankhan99/used-lace-1162.git)
+ - 🔭 Individual Project [Yoox-Clone ](https://github.com/Shivam-Moudgil/YOOX/tree/main/Yoox)
 
-- 👯 Group Project 1 [Sephora-Clone](https://github.com/UrsTrulyAditya/Sephora-Clone.git)
+- 👯 Group Project 1 [Get Harvest-Clone]((https://github.com/Shivam-Moudgil/get-harvest-clone))
 
 - 💬 Ask me about **Fronted**
 
-- 📫 How to reach me **usmani.faizan98@gmail.com**
+- 📫 How to reach me **shivammoudgil358@mail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/121S_vBC4WOqO2obzQUunx9s7sCWVmPcj/view?usp=sharing)
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live😊**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
-<a href="https://linkedin.com/in/www.linkedin.com/in/faizan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/faizan7" height="30" width="40" /></a>
-<a href="https://instagram.com/mrfai_zan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrfai_zan786" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-moudgil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/shivam-moudgil/)" height="30" width="40" /></a>
 </p>
 
 
@@ -63,7 +62,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <h2 align="center">PROJECT'S</h2>
 
-[Myntra-Clone ](https://github.com/Faizankhan99/used-lace-1162.git)
+[ Clone]()
 <h3>This website is a clone of "Myntra.com". It is a online Shopping Site for Fashion & Lifestyle in India. India's Fashion Expert brings you a variety of footwear, Clothing, Accessories and lifestyle products ....<h3/>
 <h3>Individual Project | Duration: 04 Days<h3/>
 <h3>TECH STACK: REACT | CSS | JAVASCRIPT | JSON SERVER | CHAKRA UI</h3>
