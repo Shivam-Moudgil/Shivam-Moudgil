@@ -84,7 +84,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <br></div>
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/Dev-faiz/Dev-faiz/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/Shivam-Moudgil/blob/main/Geometric%20White.gif" />
+<img align="" height='120px' src="https://github.com/Shivam-Moudgil/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/Shivam-Moudgil/blob/main/Geometric%20White.gif" />
 </p>
 <br>
 
