@@ -53,24 +53,17 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<h2><i>My Github Stats</i><h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Moudgil&theme=gotham" alt="shivam" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shivam-Moudgil&show_icons=true&theme=gotham" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Moudgil&theme=gotham&langs_count=8" alt="shivam" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Shivam-Moudgil&theme=gotham&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -83,17 +76,9 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam-Moudgil&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="shivam" /></p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p>&nbsp;<img  width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Moudgil&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="shivam" /></p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Moudgil&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="shivam" /></p>
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-[![Shivam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shivam-Moudgil&&theme=xcode)](https://github.com/Shivam-Moudgil)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
