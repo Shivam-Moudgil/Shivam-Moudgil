@@ -71,9 +71,9 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <p><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam-Moudgil&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="shivam" /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p>&nbsp;<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Moudgil&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="shivam" /></p>
+<p>&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Moudgil&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="shivam" /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Moudgil&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="shivam" /></p>
+<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Moudgil&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="shivam" /></p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
