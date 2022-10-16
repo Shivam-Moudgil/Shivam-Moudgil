@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h2>ABOUT</h2>
-<p>I'm a Full Stack Developer. 
+<p>I'm a Full Stack Developer. I have a 1000+ hours coding experience developed many websiites and applications.
 
 My field of Interest's are building new Web Technologies and Products and also in areas related to Deep Learning and Natural Launguage Processing.
 
