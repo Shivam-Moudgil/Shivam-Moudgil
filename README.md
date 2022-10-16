@@ -14,13 +14,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h2>ABOUT</h2>
-<p>I'm a Full Stack Developer. I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️ I am fluent in classics like Javascript.
+<p>I'm a Full Stack Developer. 
 
-My field of Interest's are building new Web Technologies and Products. and also in areas related to Deep Learning and Natural Launguage Processing.
+My field of Interest's are building new Web Technologies and Products and also in areas related to Deep Learning and Natural Launguage Processing.
 
 Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js,Express
 
-I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.</p>
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and clone the project with team collaboration.</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -29,7 +29,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 
 ### 🌱 I’m from Bilaspur, H.P, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
-- 👨‍💻 All of my projects are available at [Portfolio 😊](https://Shivam_Moudgil.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio 😊](https://Shivam-Moudgil.github.io)
 
 - 🌱 I’m currently learning **React Advanced**
 
@@ -78,9 +78,11 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+[![Shivam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shivam-Moudgil&&theme=xcode)](https://github.com/Shivam-Moudgil)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-faiz}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Shivam-Moudgil}/count.svg" /></p> 
 <br></div>
 
 <p align="center">
