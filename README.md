@@ -82,7 +82,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Shivam-Moudgil}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-faiz}/count.svg" /></p> 
 <br></div>
 
 <p align="center">
