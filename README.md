@@ -6,7 +6,8 @@
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+!;Fullstack+Developer+!;Coder+Lover+!;Problem+Solver+!" > 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+!;Fullstack+Developer+!;Coder+Lover+!;Problem+Solver+!" > </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizankhan99&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>
