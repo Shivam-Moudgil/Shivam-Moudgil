@@ -28,6 +28,7 @@
 
 
 ### 🌱 I’m from Bilaspur, H.P, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+- 🤷‍♂️ Iam a Bsc. Hons.(Chem) graduated person who loves **Coding** so started to learn coding. I love to code new things and love to work on projects.
 - 👨‍💻 All of my projects are available at [Portfolio 😊](https://Shivam-Moudgil.github.io)
 
 - 🌱 I’m currently learning **React Advanced**
